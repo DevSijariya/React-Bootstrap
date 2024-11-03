@@ -1,3 +1,16 @@
+# Portfolio Project - Day 1
+
+## Overview
+This project is my personal portfolio, where I aim to showcase my skills, projects, and experiences. On Day 1, I focused on creating a responsive navigation bar using React and Bootstrap.
+
+## Goals for Day 1
+- Set up a React project using `create-react-app`.
+- Integrate Bootstrap for styling.
+- Create a responsive navigation bar.
+- Implement a collapsible menu for mobile view.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
